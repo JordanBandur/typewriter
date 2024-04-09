@@ -10,7 +10,7 @@ const slowType = function(sentence) {
   }
   console.log("\n");
 };
-
+ 
 slowType(sentence);
 
 
